@@ -1,0 +1,38 @@
+repos:
+  # General hooks
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      - id: trailing-whitespace
+        name: Trim trailing whitespace
+        description: Remove trailing whitespace from files
+
+      - id: end-of-file-fixer
+        name: Fix end of files
+        description: Ensure files end with a newline
+
+      - id: check-yaml
+        name: Check YAML syntax
+        description: Check YAML files for syntax errors
+
+      - id: check-toml
+        name: Check TOML syntax
+        description: Check TOML files for syntax errors
+
+      - id: check-merge-conflict
+        name: Check for merge conflicts
+        description: Check for merge conflict markers
+
+      - id: check-case-conflict
+        name: Check for case conflicts
+        description: Check for files with case conflicts
+
+      - id: mixed-line-ending
+        name: Check line endings
+        description: Check for mixed line endings
+        args: ['--fix=lf']
+
+# Global configuration
+default_stages: [pre-commit]
+fail_fast: false
+minimum_pre_commit_version: '4.0.0'

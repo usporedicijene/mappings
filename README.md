@@ -16,8 +16,8 @@ Projekt se sastoji od CSV datoteka za mapiranje koje pomažu u standardizaciji p
 ### `categories_mappings.csv`
 Sadrži mapiranja specifičnih naziva kategorija proizvoda u standardizirane glavne kategorije:
 
-- **Kolona `from`**: Originalni naziv kategorije (kako se pojavljuje u izvornim podacima)
-- **Kolona `to`**: Standardizirani naziv glavne kategorije
+- **Stupac `from`**: Originalni naziv kategorije (kako se pojavljuje u izvornim podacima)
+- **Stupac `to`**: Standardizirani naziv glavne kategorije
 
 **Regulatorni okvir**: Prema [Uredbi o načinu objavljivanja cijena (NN 75/2025)](https://narodne-novine.nn.hr/clanci/sluzbeni/2025_05_75_979.html), trgovci su dužni objaviti pripadajuće kategorije proizvoda: "hrana, piće, kozmetika, sredstva za čišćenje, toaletne potrepštine, proizvodi za kućanstvo". Međutim, neki trgovci ne poštuju ovu obvezu te koriste vlastite nazive kategorija, što zahtijeva mapiranje u propisane standardizirane kategorije.
 
@@ -34,8 +34,8 @@ Sadrži mapiranja specifičnih naziva kategorija proizvoda u standardizirane gla
 ### `cities_mappings.csv`
 Sadrži mapiranja različitih varijanti naziva gradova u standardizirane nazive:
 
-- **Kolona `from`**: Varijanta naziva grada (s dijakritičkim znakovima ili bez njih, kratice, itd.)
-- **Kolona `to`**: Standardizirani naziv grada
+- **Stupac `from`**: Varijanta naziva grada (s dijakritičkim znakovima ili bez njih, kratice, itd.)
+- **Stupac `to`**: Standardizirani naziv grada
 
 **Primjeri mapiranja:**
 - `Cakovec` → `Čakovec`
@@ -77,4 +77,4 @@ Za pitanja ili prijedloge otvorite issue ili pošaljite pull request.
 
 ---
 
-*Ovaj projekt pomaže u standardizaciji podataka za hrvatske sustave usporedbe cijena.* 
+*Ovaj projekt pomaže u standardizaciji podataka za hrvatske sustave usporedbe cijena.*
