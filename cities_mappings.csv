@@ -1,0 +1,283 @@
+from;to
+A Cista Provo;Cista Provo
+A Komiža;Komiža
+Banjole;Banjole
+Baška;Baška
+Beli Manastir;Beli Manastir
+Belišće;Belišće
+Benkovac;Benkovac
+Bestovje;Bestovje
+Bibinje;Bibinje
+Bilje;Bilje
+Biograd;Biograd
+Biograd Na Moru;Biograd na Moru
+Bjelovar;Bjelovar
+Brckovljani;Brckovljani
+Brela;Brela
+Buje;Buje
+Buzet;Buzet
+Cakovec;Čakovec
+Cavle;Čavle
+Cazma;Čazma
+Cepin;Čepin
+Cibaca;Čibača
+Cres;Cres
+Crikvenica;Crikvenica
+Dakovo;Đakovo
+Daruvar;Daruvar
+Delnice;Delnice
+Djakovo;Đakovo
+Donja Stubica;Donja Stubica
+Donji;Donji
+Donji Kneginec;Donji Kneginec
+Donji Miholjac;Donji Miholjac
+Drniš;Drniš
+Dubrovnik;Dubrovnik
+Duga Resa;Duga Resa
+Dugi Rat;Dugi Rat
+Dugo Selo;Dugo Selo
+Dugo_Selo;Dugo Selo
+Dugopolje;Dugopolje
+Durdevac;Đurđevac
+Fazana;Fažana
+Funtana;Funtana
+Garešnica;Garešnica
+Gospic;Gospić
+Gospić;Gospić
+Gračac;Gračac
+Grohote;Grohote
+Grubisno;Grubišno Polje
+Grubisno Polje;Grubišno Polje
+Hum Na Sutli;Hum na Sutli
+Hvar;Hvar
+Ilok;Ilok
+Imotski;Imotski
+Ivanec;Ivanec
+Ivanic Grad;Ivanić-Grad
+Ivanić Grad;Ivanić-Grad
+Ivanić-Grad;Ivanić-Grad
+Jablanovec;Jablanovec
+Jastrebarsko;Jastrebarsko
+Jelsa;Jelsa
+Jezera;Jezera
+Kali;Kali
+Karlovac;Karlovac
+Kastav;Kastav
+Kastel;Kastel
+Kastel Kambelovac;Kaštela
+Kastel Stafilic;Kaštela
+Kastel Sucurac;Kaštela
+Kaštel Gomilica;Kaštela
+Kaštel Lukšić;Kaštela
+Kaštel Novi;Kaštela
+Kaštel Stari;Kaštela
+Kaštel Sućurac;Kaštela
+Kaštela;Kaštela
+Knin;Knin
+Komolac;Komolac
+Koprivnica;Koprivnica
+Korcula;Korčula
+Korenica;Korenica
+Korčula;Korčula
+Kostrena;Kostrena
+Kotoriba;Kotoriba
+Krapina;Krapina
+Krapinske Toplice;Krapinske Toplice
+Krizevci;Križevci
+Križevci;Križevci
+Krk;Krk
+Kukuljanovo;Kukuljanovo
+Kupari;Kupari
+Kutina;Kutina
+Labin;Labin
+Lepoglava;Lepoglava
+Lopar;Lopar
+Lovran;Lovran
+Ludbreg;Ludbreg
+Makarska;Makarska
+Mali Lošinj;Mali Lošinj
+Malinska;Malinska
+Malinska Krk;Malinska
+Marija Bistrica;Marija Bistrica
+Matulji;Matulji
+Medulin;Medulin
+Metkovic;Metković
+Metković;Metković
+Mlini;Mlini
+Mursko Sredisce;Mursko Središće
+Mursko Središće;Mursko Središće
+Murter;Murter
+Nasice;Našice
+Našice;Našice
+Nedescina;Nedešćina
+Nečujam;Nečujam
+Nin;Nin
+Nova Gradiska;Nova Gradiška
+Nova Gradiška;Nova Gradiška
+Novalja;Novalja
+Novi Marof;Novi Marof
+Novi Vinodolski;Novi Vinodolski
+Novigrad;Novigrad
+Novigrad(Cittanova);Novigrad
+Novska;Novska
+Obrovac;Obrovac
+Ogulin;Ogulin
+Okrug Gornji;Okrug Gornji
+Omiš;Omiš
+Omišalj;Omišalj
+Opatija;Opatija
+Opuzen;Opuzen
+Orahovica;Orahovica
+Orebic;Orebić
+Orebić;Orebić
+Oriovac;Oriovac
+Osijek;Osijek
+Otocac;Otočac
+Otok;Otok
+Otočac;Otočac
+Ozalj;Ozalj
+Pag;Pag
+Pakostane;Pakoštane
+Pakrac;Pakrac
+Pasman;Pašman
+Pazin;Pazin
+Petrinja;Petrinja
+Pirovac;Pirovac
+Pitomaca;Pitomača
+Pitomača;Pitomača
+Pleternica;Pleternica
+Ploce;Ploče
+Ploče;Ploče
+Podstrana;Podstrana
+Pomer;Pomer
+Popovaca;Popovača
+Popovača;Popovača
+Porec;Poreč
+Poreč;Poreč
+Posedarje;Posedarje
+Pozega;Požega
+Požega;Požega
+Pregrada;Pregrada
+Preko;Preko
+Prelog;Prelog
+Primošten;Primošten
+Privlaka;Privlaka
+Pula;Pula
+Rab;Rab
+Razine;Razine
+Ražanac;Ražanac
+Ražanj;Ražanj
+Rijeka;Rijeka
+Rogoznica;Rogoznica
+Rovinj;Rovinj
+Rubeši;Rubeši
+Sali;Sali
+Samobor;Samobor
+Seget Donji;Seget Donji
+Selca;Selca
+Selce;Selce
+Senj;Senj
+Sesvete;Sesvete
+Sesvetski Kraljevec;Sesvetski Kraljevec
+Sibenik;Šibenik
+Sinj;Sinj
+Sisak;Sisak
+Slatina;Slatina
+Slavonski Brod;Slavonski Brod
+Slavonski_Brod;Slavonski Brod
+Slunj;Slunj
+Solin;Solin
+Split;Split
+Stari Grad;Stari Grad
+Starigrad Paklenica;Starigrad Paklenica
+Stobrec;Stobreč
+Strmec;Strmec
+Strožanac;Strožanac
+Suhopolje;Suhopolje
+Sukosan;Sukošan
+Sukošan;Sukošan
+Supetar;Supetar
+Sv Ivan Zelina;Sveti Ivan Zelina
+Sv Kriz Zacretje;Sveti Križ Začretje
+Sv.;Sv.
+Sv. Ivan Zelina;Sveti Ivan Zelina
+Sveta Nedelja;Sveta Nedelja
+Sveti Filip I Jakov;Sveti Filip i Jakov
+Sveti Ivan Zelina;Sveti Ivan Zelina
+Sveti Križ Začretje;Sveti Križ Začretje
+T Zaton;T Zaton
+Tar;Tar
+Tkon;Tkon
+Tribunj;Tribunj
+Trilj;Trilj
+Trnovec Bartolovečki;Trnovec Bartolovečki
+Trogir;Trogir
+Umag;Umag
+Umag-Umago;Umag
+Valpovo;Valpovo
+Varazdin;Varaždin
+Varazdinske Toplice;Varaždinske Toplice
+Varaždin;Varaždin
+Vela Luka;Vela Luka
+Velika Gorica;Velika Gorica
+Velika_Gorica;Velika Gorica
+Veliko Trgovišće;Veliko Trgovišće
+Vinkovci;Vinkovci
+Vir;Vir
+Virovitica;Virovitica
+Vis;Vis
+Viskovo;Viškovo
+Viškovo;Viškovo
+Vodice;Vodice
+Vodnjan;Vodnjan
+Volosko;Opatija
+Vrbovec;Vrbovec
+Vrsar;Vrsar
+Vrsi;Vrsi
+Vukovar;Vukovar
+Zabok;Zabok
+Zadar;Zadar
+Zagreb;Zagreb
+Zagreb - Sesvete;Zagreb
+Zagreb Blato;Zagreb
+Zagreb Novi Zagreb;Zagreb
+Zagreb_Dubec;Zagreb
+Zaostrog;Zaostrog
+Zapresic;Zaprešić
+Zaprešic;Zaprešić
+Zaprešić;Zaprešić
+Zlatar;Zlatar
+Zlatar Bistrica;Zlatar Bistrica
+Zminj;Žminj
+Zupanja;Županja
+Ðakovo;Ðakovo
+Čakovec;Čakovec
+Čatrnja Rakovica;Čatrnja Rakovica
+Čepin;Čepin
+Đakovo;Đakovo
+Đurđevac;Đurđevac
+Šestenovac;Šestenovac
+Šibenik;Šibenik
+Šibenik-Ražine;Šibenik
+Županja;Županja
+6C KRK;Krk
+A GORNJA STUBICA;Gornja Stubica
+Borovo;Borovi
+CESTICA;Cestica
+DONJA STUBICA;Donja Stubica
+Drazice;Dražice
+Drenovci;Drenovci
+Gradište;Gradište
+Ivankovo;Ivankovo
+Jarmina;Jarmina
+Kraljevica;Kraljevica
+MALINSKA;Malinska
+MARIJA BISTRICA;Marija Bistrica
+OROSLAVJE;Oroslavje
+PREGRADA;Pregrada
+PUNAT;Punat
+RAVNA GORA;Ravna Gora
+Slavonski brod;Slavonski Brod
+VIROVITICA;Virovitica
+Vrpolje;Vrpolje
+Ston;Ston
